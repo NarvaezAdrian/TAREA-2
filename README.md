@@ -25,16 +25,15 @@
 
 
 
-## 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS 
-
-## 3.1 RESISTENCIA
+3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS 
 
 
 
 
-### 3.1.1 RESISTENCIA DE CONDUCTORES
 
-1.	Determine la resistencia, a  20℃,  de 100m de alambre de aluminio sólido que tiene los siguientes radios:
+
+
+2.	Determine la resistencia, a  20℃,  de 100m de alambre de aluminio sólido que tiene los siguientes radios:
    
  A. 0,5 mm
 
@@ -55,25 +54,25 @@ D.	0,5 cm
 ![image](https://user-images.githubusercontent.com/84431598/121259574-e8f48580-c875-11eb-9231-db51676cd44e.png)
 
 
-3. 	Una barra colectora de cobre sólido de 250 pies de longitud que, se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02Ω a 20℃, calcule la altura requerida de la barra (en pulgadas).
+4. 	Una barra colectora de cobre sólido de 250 pies de longitud que, se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02Ω a 20℃, calcule la altura requerida de la barra (en pulgadas).
 
 
 
-5. 	Un alambre de cobre con un diámetro de 0.80mm tiene una resistencia de 10.3Ω a 20℃. ¿Cuánto mide el alambre en metros y en pies?
+6. 	Un alambre de cobre con un diámetro de 0.80mm tiene una resistencia de 10.3Ω a 20℃. ¿Cuánto mide el alambre en metros y en pies?
 
 ![image](https://user-images.githubusercontent.com/84431598/121271499-6c6ba200-c889-11eb-8278-690b03de3a0e.png)
 
 ![image](https://user-images.githubusercontent.com/84431598/121271575-9cb34080-c889-11eb-832a-556454752a13.png)
 
 
-7. 	Determine la resistividad (en ohm-metros) de un cilindro de gráfico con base de carbón que tiene una longitud de 6.00cm, un diámetro de 0.50mm y una resistencia medida de 3.0 Ω a 20℃ .¿Cómo se compara este valor con la resistividad que reporta para el carbón?
+8. 	Determine la resistividad (en ohm-metros) de un cilindro de gráfico con base de carbón que tiene una longitud de 6.00cm, un diámetro de 0.50mm y una resistencia medida de 3.0 Ω a 20℃ .¿Cómo se compara este valor con la resistividad que reporta para el carbón?
 
 ![image](https://user-images.githubusercontent.com/84431598/121275220-cb351980-c891-11eb-93ab-73cab83d562f.png)
 
 Comparándolo con el valor de la resistividad del carbón se puede decir que la resistividad obtenida es menor a la resistividad del carbón.
 
 
-9.	Una sección de 2500 m de alambre de aleación tiene una resistencias de 32 Ω. Si el alambre tiene un diámetro de 1.5mm, determine la resistividad del material en ohm-metros. ¿La aleación es mejor conductora que el cobre?
+10.	Una sección de 2500 m de alambre de aleación tiene una resistencias de 32 Ω. Si el alambre tiene un diámetro de 1.5mm, determine la resistividad del material en ohm-metros. ¿La aleación es mejor conductora que el cobre?
 
 
 ![image](https://user-images.githubusercontent.com/84431598/121406031-51e60700-c923-11eb-88d0-7dda8be493a6.png)
@@ -83,9 +82,9 @@ Esta aleación no está buena como el cobre.
 
 
 
-### 3.1.2 TABLA DE ALAMBRES ELÉCTRICOS
 
-11.	Utilice la tabla 3-2 para terminar la resistencia de 300 pies de conductores de cobre sólido AWG 22 Y AWG 19. Compare los diámetro y resistencias delos alambres.
+
+12.	Utilice la tabla 3-2 para terminar la resistencia de 300 pies de conductores de cobre sólido AWG 22 Y AWG 19. Compare los diámetro y resistencias delos alambres.
 
 ![image](https://user-images.githubusercontent.com/84431598/121411532-59a8aa00-c929-11eb-8761-d190ba6b850e.png)
 
@@ -94,17 +93,17 @@ El diámetro de AWG 19 es 1.42 veces el diámetro de AWG 22.La resistencia del A
 
 El mayor diámetro es de AWG 2 mientras que el diámetro de AWG 8 es menor, la mitad del diámetro AWG 2, la resistencia de AWG 8 es mayor que la resistencia AWG 2
 
-13.	Determine la máxima corriente que puede conducir un alambre de AWG 19 y uno AWG 30.
+14.	Determine la máxima corriente que puede conducir un alambre de AWG 19 y uno AWG 30.
 
 El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
 
-15.	Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550 Ω a una temperatura de 20 ℃. ¿Cuánto mide el alambre en metros?
+16.	Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550 Ω a una temperatura de 20 ℃. ¿Cuánto mide el alambre en metros?
 
 ![image](https://user-images.githubusercontent.com/84431598/121442793-f5e6a700-c951-11eb-8885-ac66a45eaf7f.png)
 
 
-### 3.1.3 RESISTENCIA DE ALABRES: MILÉSIMA CIRCULAR
-17.-Determine el área en milésimas circulares de los siguientes conductores (T=20°C):
+
+18.-Determine el área en milésimas circulares de los siguientes conductores (T=20°C):
 
 a. Alambre circular con un diámetro de 0.016 pulgadas
 
@@ -118,11 +117,11 @@ c. Barra colectora rectangular de 0.25x6.0 pulgadas
 
 ![image](https://user-images.githubusercontent.com/84458025/121450241-f470ab00-c960-11eb-9d5f-cdf8420fb76f.png)
 
-18.-Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
+20.-Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
 
 
 
-19.-Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
+22.-Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
 
 ![image](https://user-images.githubusercontent.com/84458025/121450424-55987e80-c961-11eb-9ad1-135ea797a164.png)
 
@@ -134,13 +133,13 @@ b.-
 
 ![image](https://user-images.githubusercontent.com/84458025/121450926-39e1a800-c962-11eb-8cdf-a4fe868a92ea.png)
 
-20.-Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+24.-Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
 
 a. 250 MC       c. 250 MMC
 
 b. 1000 MC      d. 750 MMC
 
-21. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 ohms.
+26. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 ohms.
 
 a. Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares.
 
@@ -154,7 +153,7 @@ b. Determine el diámetro del alambre en milésimas y en pulgadas.
 𝑑 = 0.0644𝑝𝑙𝑔𝑠
 
 
-23.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
+28.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
 
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
@@ -165,7 +164,7 @@ b. Calcule la longitud del alambre en pies.
 
 ![image](https://user-images.githubusercontent.com/84458025/121452797-aca05280-c965-11eb-85de-d8f748582fea.png)
 
-24.-Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
+30.-Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
 R=(ρ*l)/A   
@@ -181,9 +180,8 @@ b. Calcule la longitud del alambre en pies y en metros. (Nota: 1 pie = 0.3048 m.
 ![image](https://user-images.githubusercontent.com/84458025/121463173-22f98080-c977-11eb-9b6b-1d9ec3ce1ffe.png)
 
 
-### 3.1.4 EFECTOS DE LA TEMPERATURA
 
-25. Un conductor de aluminio tiene una resistencia de 50 ohms a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C.
+32. Un conductor de aluminio tiene una resistencia de 50 ohms a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121453419-c1c9b100-c966-11eb-980f-d29f91389d4e.png)
 
@@ -192,7 +190,7 @@ b. Calcule la longitud del alambre en pies y en metros. (Nota: 1 pie = 0.3048 m.
 ![image](https://user-images.githubusercontent.com/84458025/121463284-66ec8580-c977-11eb-8c18-e231049421bb.png)
 
 
-27. Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
+34. Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
 
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
 
@@ -212,7 +210,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y deter
 
 𝑅100℃ = 25 𝑜ℎ𝑚𝑠
 
-28.-Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
+36.-Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
 
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
  
@@ -222,11 +220,11 @@ b. Determine al valor del coeficiente de temperatura, a, a 20°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121463891-79b38a00-c978-11eb-89dd-13674e4a49f9.png)
 
-29. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohms a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
+38. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohms a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121454825-1cfca300-c969-11eb-95af-216545a176bf.png)
 
-30.-Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+40.-Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
 
 R_2=R_1 (1+α(T_2-T_1 ))
 
@@ -235,7 +233,7 @@ R_2=500Ω(1+0.075(20^0 C-(30^0 C)))
 R_2=125Ω
 
 
-31.-Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
+42.-Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
 
 a. Calcule la resistencia a una temperatura de 0°C.
 
@@ -252,24 +250,24 @@ c. Determine la intercepción de temperatura del material
 ![image](https://user-images.githubusercontent.com/84458025/121461953-6c48d080-c975-11eb-8c3a-d9aff5637f41.png)
 
 
-32.-Deduzca la expresión de la ecuación 3-8.
+44.-Deduzca la expresión de la ecuación 3-8.
 
 ![image](https://user-images.githubusercontent.com/84458025/121464170-fe060d00-c978-11eb-81ee-42df1995808c.png)
  
 
-### 3.1.5 TIPOS DE RESISTORES
+
 
 ![image](https://user-images.githubusercontent.com/84425276/121633877-3ecd5700-ca49-11eb-9998-6d113975f8a5.png)
 
 ![image](https://user-images.githubusercontent.com/84425276/121633928-5573ae00-ca49-11eb-958c-44d2e322a3f6.png)
 
-### 3.1.6 CÓDIGO DE COLORES DE RESISTORES
+
 
 ![image](https://user-images.githubusercontent.com/84425276/121633973-6a504180-ca49-11eb-8dd0-b8b8c448e173.png)
 
-### 3.1.7  MEDICIÓN DE RESISTENCIA: EL ÓHMETRO
 
-37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
+
+46. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
 
 Medimos la resistencia del foco usando un óhmetro y si mide infinito (Error), quiere decir que el foco esta quemado, dañado.
 
@@ -281,7 +279,7 @@ Se mide con el óhmetro la resistencia del carrete y se hace una regla de tres
 
       x      →valor medido por el óhmetro
 
-### 3.1.8 TERMISTORES
+
 
 41. Un termistor tiene las características que se muestran en la figura 3-23.
 
@@ -300,7 +298,7 @@ Es negativo, porque a mayor temperatura la resistencia del termistor en menor, o
 
 ![image](https://user-images.githubusercontent.com/84425276/121634123-aa172900-ca49-11eb-8935-a8451d07940e.png)
 
-### 3.1.9 CELDAS FOTOCONDUCTORAS 
+
 42. Para la fotocelda que tiene las características que se muestra en la figura
 
 3-24(c), determine la resistencia
@@ -319,7 +317,7 @@ R = 700 kΩ
 
 ![image](https://user-images.githubusercontent.com/84425276/121634318-f1051e80-ca49-11eb-8586-c9bbcd645592.png)
 
-### 3.1.11 CONDUCTANCIA
+
 
 43. Calcula la conductancia de las siguientes resistencias:
 
@@ -327,15 +325,15 @@ R = 700 kΩ
 
 ![image](https://user-images.githubusercontent.com/84425276/121634732-b8197980-ca4a-11eb-8863-8e96254c16cc.png)
 
-### 3.1.12 SUPERCONDUCTORES
+
 
 45. Determine la conductancia de 1000 m de alambre de cobre solido AWG 30 a una temperatura de 20°C.
 
 ![image](https://user-images.githubusercontent.com/84425276/121634776-cc5d7680-ca4a-11eb-96d9-1231a19ea465.png)
 
-## 3.2 LEY DE OHM, POTENCIA Y ENERGÍA
 
-### 3.2.1 LEY DE OHM
+
+
 
 1. Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
 
@@ -390,7 +388,7 @@ R = 700 kΩ
 
 
 
-### 3.2.2 POLARIDAD DEL VOLTAJE Y DIRECCIÓN DE LA CORRIENTE
+
 
 25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
 Nota: Todas las resistencias son de 15 Ω
@@ -398,7 +396,6 @@ Nota: Todas las resistencias son de 15 Ω
 ![image](https://user-images.githubusercontent.com/84425276/121635853-93260600-ca4c-11eb-94c1-b2d989bef131.png)
 
 
-### 3.2.3 POTENCIA
 
 30.-Una cafetera de 120 V está especificada en 960 W. Determine su resistencia y especifique la corriente.
 
@@ -530,7 +527,7 @@ x= 0,22 centavos
 Total:26,03 =26 doresres con 3 centavos
 
 
-### 3.2.6 EFICIENCIA
+
 
 55. La potencia de salida de un transformados con η=97%  es de 50Kw. ¿Cuál es la potencia de entrada?
 
@@ -557,7 +554,7 @@ Total:26,03 =26 doresres con 3 centavos
 
 
 
-### 3.2.7 RESISTENCIAS NO LINEALES Y DINÁMICAS
+
 
 67. Un resistor que depende de voltaje tiene la característica I-V de la figura 4-41
 
@@ -575,7 +572,7 @@ c.¿Por qué los dos valores son diferentes?
 
 Los valores son diferencias ya que el volumen y la corriente tiene valores diferentes en la grafica, por enda va a variar el volumen 
 
-### 3.2.8 ANÁLISIS DE CIRCUITOS CON AYUDA DE LA COMPUTADORA 
+
 
 69. Establezca el circuito de la figura 4-33 y resuelva  para las corrientes dado en el  par voltaje/resistencia del problema la 1c, 1d, y 1e.
 
