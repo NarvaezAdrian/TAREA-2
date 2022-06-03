@@ -95,6 +95,7 @@ El mayor diámetro es de AWG 2 mientras que el diámetro de AWG 8 es menor, la m
 
 14.	Determine la máxima corriente que puede conducir un alambre de AWG 19 y uno AWG 30.
 
+
 El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
 
 16.	Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550 Ω a una temperatura de 20 ℃. ¿Cuánto mide el alambre en metros?
