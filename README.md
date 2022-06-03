@@ -752,4 +752,6 @@ W=3.3 x 24h
 
 
  6. CONCLUSIONES
-*Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
+
+
+Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
