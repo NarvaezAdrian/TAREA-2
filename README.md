@@ -720,35 +720,6 @@ W=3.3 x 24h
 4. VIDEO
 
 
-5. CONCLUSIONES
-
-* Como conclusión se tiene que a medida que los electrones fluyen por cada resistencia en un circuito estos ceden algo de su energía en forma de calor, por lo que quiere decir que los electrones tienen más energía cuando entran a una resistencia que cuando salen de esta.
-* También se tiene que para poder hallar la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo, existe la potencia nominal, la cual no está relacionada con el valor de la resistencia, sino que está relacionada por tres cosas: la composición física, el tamaño y el área de la resistencia.
-* Al querer hallar un valor de corriente o voltaje y si la resistencia permanece constante se puede utilizar una regla de tres, en cambio al querer realiza lo mismo con la resistencia donde el voltaje es constante no sirve debió a que la resistencia y la corriente son inversamente proporcionales.
-* La ley de ohm simboliza la relación que tiene con el voltaje y la resistencia mediante su fórmula.
-* Para la localización de fallas en un circuito debemos tomar en cuenta tan solo 3 pasos iniciando con un análisis para ir localizando las fallas, después vamos a planificar de que manera vamos a solucionarlo de esta manera para ahorrar tiempo y por ultimo realizaremos mediciones para reducir las posibles fallas.
-
-
-6. BIBLIOGRAFÍA
-
-Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 5. CONCLUSIONES
 
@@ -766,5 +737,6 @@ Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https
 
 - Se utiliza la ley de ohm casi en todos los ejercicios realizados.
 
-## 6. BIBLIOGRAFÍA 
 
+ 6. CONCLUSIONES
+Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
