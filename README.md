@@ -564,18 +564,19 @@ Los valores son diferencias ya que el volumen y la corriente tiene valores difer
 
 
 
-69. Establezca el circuito de la figura 4-33 y resuelva  para las corrientes dado en el  par voltaje/resistencia del problema la 1c, 1d, y 1e.
+* 66 Establezca el circuito de la figura 4-33 y resuelva  para las corrientes dado en el  par voltaje/resistencia del problema la 1c, 1d, y 1e.
 
-![image](https://user-images.githubusercontent.com/84458025/121723410-17f43c80-caac-11eb-9ec5-3de5f2272435.png)
+![image](https://user-images.githubusercontent.com/106161399/171946087-3f4bd7c3-a915-4c27-b70b-33ebcbdc1d64.png)
 
-71. Haga clic en Coloca (Lugar) en la barra de menú; haga clic en Componente de la lista de Grupo, seleccione Básica (Básica), desplácese hacia abajo y haga clic en Interrumptor; seleccione SPDT, luego haga clic en OK. Coloque en la pantalla y haga doble clin en su símbolo. Cuanndo la caja de diálogo se abra, seleccione la etiqueta valor, tecleé la letra A y haga click en OK. Señeccione un segundo interrumptor y etiquetelo (B). Agregue una fucnete de cd de 12V y una lámpara. Para agregar la lámpara haga clin en Coloca / Componente ya apartir de la caja de Grupo seleccione Lámpara. Arme el circuito de la figura 2-27, opere las interruptores y determine si consiguió existosamente el control de dos vías.
 
-![image](https://user-images.githubusercontent.com/84458025/121723501-3823fb80-caac-11eb-84cb-00cb32e89464.png)
+* 68 Haga clic en Coloca (Lugar) en la barra de menú; haga clic en Componente de la lista de Grupo, seleccione Básica (Básica), desplácese hacia abajo y haga clic en Interrumptor; seleccione SPDT, luego haga clic en OK. Coloque en la pantalla y haga doble clin en su símbolo. Cuanndo la caja de diálogo se abra, seleccione la etiqueta valor, tecleé la letra A y haga click en OK. Señeccione un segundo interrumptor y etiquetelo (B). Agregue una fucnete de cd de 12V y una lámpara. Para agregar la lámpara haga clin en Coloca / Componente ya apartir de la caja de Grupo seleccione Lámpara. Arme el circuito de la figura 2-27, opere las interruptores y determine si consiguió existosamente el control de dos vías.
 
-73.-
+![image](https://user-images.githubusercontent.com/106161399/171946133-e9f114a1-de97-49bb-a667-5f9e3c68e555.png)
 
-![image](https://user-images.githubusercontent.com/84458025/121723590-4ffb7f80-caac-11eb-92dc-a9b5a081981a.png)
 
+* 70
+
+![image](https://user-images.githubusercontent.com/106161399/171946186-1a30028e-1a1c-4f4f-9f49-f10a2af5966a.png)
 
 ## 4. VIDEO
 https://youtu.be/dPrDNRBTisc
