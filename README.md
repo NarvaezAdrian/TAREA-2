@@ -96,7 +96,7 @@ El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
 
  
 
-* 18.-Determine el área en milésimas circulares de los siguientes conductores (T=20°C):
+* 18 Determine el área en milésimas circulares de los siguientes conductores (T=20°C):
 
 a. Alambre circular con un diámetro de 0.016 pulgadas
 
@@ -110,11 +110,11 @@ c. Barra colectora rectangular de 0.25x6.0 pulgadas
 
 ![image](https://user-images.githubusercontent.com/84458025/121450241-f470ab00-c960-11eb-9d5f-cdf8420fb76f.png)
 
-* 20.-Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
+* 20 Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
 
 
 
-* 22.-Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
+* 22 Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
 
 ![image](https://user-images.githubusercontent.com/84458025/121450424-55987e80-c961-11eb-9ad1-135ea797a164.png)
 
@@ -126,13 +126,13 @@ b.-
 
 ![image](https://user-images.githubusercontent.com/84458025/121450926-39e1a800-c962-11eb-8cdf-a4fe868a92ea.png)
 
-* 24.-Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+* 24 Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
 
 a. 250 MC       c. 250 MMC
 
 b. 1000 MC      d. 750 MMC
 
-* 26. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 ohms.
+* 26 Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 ohms.
 
 a. Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares.
 
@@ -146,7 +146,7 @@ b. Determine el diámetro del alambre en milésimas y en pulgadas.
 𝑑 = 0.0644𝑝𝑙𝑔𝑠
 
 
-* 28.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
+* 28 Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
 
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
@@ -157,7 +157,7 @@ b. Calcule la longitud del alambre en pies.
 
 ![image](https://user-images.githubusercontent.com/84458025/121452797-aca05280-c965-11eb-85de-d8f748582fea.png)
 
-* 30.-Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
+* 30 Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
 R=(ρ*l)/A   
@@ -174,16 +174,16 @@ b. Calcule la longitud del alambre en pies y en metros. (Nota: 1 pie = 0.3048 m.
 
 
 
-* 32. Un conductor de aluminio tiene una resistencia de 50 ohms a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C.
+* 32  Un conductor de aluminio tiene una resistencia de 50 ohms a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121453419-c1c9b100-c966-11eb-980f-d29f91389d4e.png)
 
-* 34.-Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+* 34 Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
 
 ![image](https://user-images.githubusercontent.com/84458025/121463284-66ec8580-c977-11eb-8c18-e231049421bb.png)
 
 
-* 36. Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
+* 36  Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
 
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
 
@@ -203,7 +203,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y deter
 
 𝑅100℃ = 25 𝑜ℎ𝑚𝑠
 
-* 38.-Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
+* 38 Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
 
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
  
@@ -213,11 +213,11 @@ b. Determine al valor del coeficiente de temperatura, a, a 20°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121463891-79b38a00-c978-11eb-89dd-13674e4a49f9.png)
 
-38. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohms a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
+* 40 Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2 ohms a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121454825-1cfca300-c969-11eb-95af-216545a176bf.png)
 
-* 40.-Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+* 42 Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
 
 R_2=R_1 (1+α(T_2-T_1 ))
 
@@ -226,7 +226,7 @@ R_2=500Ω(1+0.075(20^0 C-(30^0 C)))
 R_2=125Ω
 
 
-* 42.-Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
+* 44 Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
 
 a. Calcule la resistencia a una temperatura de 0°C.
 
@@ -243,7 +243,7 @@ c. Determine la intercepción de temperatura del material
 ![image](https://user-images.githubusercontent.com/84458025/121461953-6c48d080-c975-11eb-8c3a-d9aff5637f41.png)
 
 
-* 44.-Deduzca la expresión de la ecuación 3-8.
+* 46 Deduzca la expresión de la ecuación 3-8.
 
 ![image](https://user-images.githubusercontent.com/84458025/121464170-fe060d00-c978-11eb-81ee-42df1995808c.png)
  
@@ -260,11 +260,11 @@ c. Determine la intercepción de temperatura del material
 
 
 
-* 46. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
+* 48 Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
 
 Medimos la resistencia del foco usando un óhmetro y si mide infinito (Error), quiere decir que el foco esta quemado, dañado.
 
-* 48. Explique como podría usar un óhmetro para determinar aproximadamente cuanto cable queda en un carrete de alambre de cobre AWG 24.
+* 50 Explique como podría usar un óhmetro para determinar aproximadamente cuanto cable queda en un carrete de alambre de cobre AWG 24.
 
 Se mide con el óhmetro la resistencia del carrete y se hace una regla de tres
 
@@ -274,7 +274,7 @@ Se mide con el óhmetro la resistencia del carrete y se hace una regla de tres
 
 
 
-* 50. Un termistor tiene las características que se muestran en la figura 3-23.
+* 52 Un termistor tiene las características que se muestran en la figura 3-23.
 
 a. Determine la resistencia del dispositivo a temperatura ambiente, 20°C.
 
@@ -292,7 +292,7 @@ Es negativo, porque a mayor temperatura la resistencia del termistor en menor, o
 ![image](https://user-images.githubusercontent.com/84425276/121634123-aa172900-ca49-11eb-8935-a8451d07940e.png)
 
 
-42. Para la fotocelda que tiene las características que se muestra en la figura
+* 54 Para la fotocelda que tiene las características que se muestra en la figura
 
 3-24(c), determine la resistencia
 
@@ -312,7 +312,7 @@ R = 700 kΩ
 
 
 
-43. Calcula la conductancia de las siguientes resistencias:
+* 56 Calcula la conductancia de las siguientes resistencias:
 
 ![image](https://user-images.githubusercontent.com/84425276/121634687-a46e1300-ca4a-11eb-99c7-8d2e488dccd8.png)
 
@@ -320,62 +320,62 @@ R = 700 kΩ
 
 
 
-45. Determine la conductancia de 1000 m de alambre de cobre solido AWG 30 a una temperatura de 20°C.
+* 58 Determine la conductancia de 1000 m de alambre de cobre solido AWG 30 a una temperatura de 20°C.
 
 ![image](https://user-images.githubusercontent.com/84425276/121634776-cc5d7680-ca4a-11eb-96d9-1231a19ea465.png)
 
 
 
+CAPITULO 4
 
-
-1. Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
+* 2 Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
 
 ![image](https://user-images.githubusercontent.com/84425276/121635065-4130b080-ca4b-11eb-90ca-f0c07d477cdb.png)
 
-3. Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:
+* 4 Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:
 
 ![image](https://user-images.githubusercontent.com/84425276/121635146-5e657f00-ca4b-11eb-9158-d0efbf62cdc5.png)
 
-5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
+* 6 Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635221-7fc66b00-ca4b-11eb-99b8-35e392b72129.png)
 
-7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50 mA?
+* 8 ¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50 mA?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635250-8ce35a00-ca4b-11eb-9f56-2ac0ed2d7ce6.png)
 
-9. En la figura 4-33, si E = 30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3.
+* 10 En la figura 4-33, si E = 30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3.
 
 ![image](https://user-images.githubusercontent.com/84425276/121635317-a5ec0b00-ca4b-11eb-9023-6f765ac1a71a.png)
 
-11. La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?
+* 12 La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635412-cfa53200-ca4b-11eb-91b7-59fe06578ad6.png)
 
-13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?
+* 14 En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635463-e51a5c00-ca4b-11eb-9133-e617773cc60c.png)
 
-15. Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V.
+* 16 Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V.
 
 ![image](https://user-images.githubusercontent.com/84425276/121635535-08dda200-ca4c-11eb-8ea0-4eb20d845334.png)
 
 ![image](https://user-images.githubusercontent.com/84425276/121635568-12ffa080-ca4c-11eb-96b6-ae682a6495ff.png)
 
-17. Un elemento resistivo esta hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje aplicado?
+* 18 Un elemento resistivo esta hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje aplicado?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635625-2c085180-ca4c-11eb-975b-03527dbcec25.png)
 
-19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33.
+* 20 La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33.
 ¿Cuál es el valor de R?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635659-3fb3b800-ca4c-11eb-8bc1-b3b48c514967.png)
 
-21. En un circuito resistivo, E = 100 V. Si R se duplica y E se cambia para que la nueva corriente sea el doble que la corriente original, ¿cuál es el nuevo valor de E?
+* 22 En un circuito resistivo, E = 100 V. Si R se duplica y E se cambia para que la nueva corriente sea el doble que la corriente original, ¿cuál es el nuevo valor de E?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635711-522df180-ca4c-11eb-8846-9f2aced1a808.png)
 
-23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿cuál es la corriente a 20˚C?
+* 24 Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿cuál es la corriente a 20˚C?
 
 ![image](https://user-images.githubusercontent.com/84425276/121635744-65d95800-ca4c-11eb-807f-d42bee0187c8.png)
 
@@ -383,44 +383,44 @@ R = 700 kΩ
 
 
 
-25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
+* 26 Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
 Nota: Todas las resistencias son de 15 Ω
 
 ![image](https://user-images.githubusercontent.com/84425276/121635853-93260600-ca4c-11eb-94c1-b2d989bef131.png)
 
 
 
-30.-Una cafetera de 120 V está especificada en 960 W. Determine su resistencia y especifique la corriente.
+* 28 Una cafetera de 120 V está especificada en 960 W. Determine su resistencia y especifique la corriente.
 
 ![image](https://user-images.githubusercontent.com/84458025/121578544-67753280-c9f0-11eb-8085-c9fad892e0ce.png)
 
 
-31.-Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 ohms. ¿Cuánta corriente requiere?
+* 30 Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 ohms. ¿Cuánta corriente requiere?
 
 ![image](https://user-images.githubusercontent.com/84458025/121578759-a1463900-c9f0-11eb-9fcd-21789eba937e.png)
 
-32.-Un lámpara de advertencia demanda 125 mA cuando disipa 15 W. ¿Cuál es su resistencia?
+* 32 Un lámpara de advertencia demanda 125 mA cuando disipa 15 W. ¿Cuál es su resistencia?
 
 ![image](https://user-images.githubusercontent.com/84458025/121579015-ec604c00-c9f0-11eb-9c11-7a9fb2e48fe7.png)
 
-33.-¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
+* 34 ¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
 
 ![image](https://user-images.githubusercontent.com/84458025/121579205-216c9e80-c9f1-11eb-8109-f655a3b4775c.png)
 
-34.-¿Qué reducción de IR ocurre cuando se disipan 90 W en un resistor de 10 ohms?
 
-35.-Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente. 
+
+* 36 Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente. 
 
 R=10K =10000 ohms 
 
 ![image](https://user-images.githubusercontent.com/84458025/121580736-b58b3580-c9f2-11eb-8f5e-0e1aefb0514b.png)
 
 
-37.-Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
+* 38 Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
 
 ![image](https://user-images.githubusercontent.com/84458025/121581382-609bef00-c9f3-11eb-9376-7b33f73a97ea.png)
 
-38.-En un circuito resistivo E=12V.
+* 40 En un circuito resistivo E=12V.
 a. Si la carga disipa 8 W ¿cuál es la corriente en el circuito?
 
 P=V.I
@@ -433,24 +433,24 @@ P=V^2/R
 
 R=V^2/P=〖(12 V)〗^2/(36 W)=4 Ω
 
-39.-Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
+* 42 Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
 
 3,56hp.(746 W)/1hp=2655,76=2656 W
 
-41.-Un resistor de 0.27 kΩ es especificado en 2W. calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación
+* 44 Un resistor de 0.27 kΩ es especificado en 2W. calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación
 
 ![image](https://user-images.githubusercontent.com/84458025/121587846-d5bef280-c9fa-11eb-8672-a0fd1272eb81.png)
 
-43.-Un resistor de 25 Ω se conecta a un suministro de energía cuyo voltaje es de 100 V ± 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
+* 46 Un resistor de 25 Ω se conecta a un suministro de energía cuyo voltaje es de 100 V ± 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
 
 ![image](https://user-images.githubusercontent.com/84458025/121588128-2d5d5e00-c9fb-11eb-8a72-ddc7e1c5fff4.png)
 
-45.-Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección.
+* 48 Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección.
 
 ![image](https://user-images.githubusercontent.com/84458025/121588421-80cfac00-c9fb-11eb-8c97-afad236fdf40.png)
 
 
-47.-Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas.
+* 50 Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas.
 
 a.	Determine la energía usada en Joules.
 
@@ -471,7 +471,7 @@ c. A $0.08/kWh, ¿Cuánto cuesta encender esta lámpara por 9 horas?
 360Wh = c
 c= 2,88 dos dolres con 88 centavos
 
-49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
+* 52 Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
 a.	Un tostador de 900 W por 5 minutos.
 
 60min = 1h
@@ -522,34 +522,31 @@ Total:26,03 =26 doresres con 3 centavos
 
 
 
-55. La potencia de salida de un transformados con η=97%  es de 50Kw. ¿Cuál es la potencia de entrada?
+* 54 La potencia de salida de un transformados con η=97%  es de 50Kw. ¿Cuál es la potencia de entrada?
 
 ![image](https://user-images.githubusercontent.com/84431598/121446674-a906ce80-c959-11eb-8705-e1a48688a0ea.png)
 
 
-57. La potencia de entrada de un dispositivo es de 1100W. Si la potencia que se pierde debido a varias ineficiencias es de 190W, ¿Cuál es la eficiencia del dispositivo?
+* 56 La potencia de entrada de un dispositivo es de 1100W. Si la potencia que se pierde debido a varias ineficiencias es de 190W, ¿Cuál es la eficiencia del dispositivo?
 
 ![image](https://user-images.githubusercontent.com/84431598/121549397-71d50380-c9d3-11eb-9f7a-5271b7fc956c.png)
 
-59. Un motor de cd de 120V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
+* 58 Un motor de cd de 120V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
 
 ![image](https://user-images.githubusercontent.com/84431598/121598240-3c4a0d80-ca07-11eb-80b0-2d76afa00d27.png)
 
-61.- El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48V, una unidad de control/manejo de electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo?
+* 60 El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48V, una unidad de control/manejo de electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo?
 
 ![image](https://user-images.githubusercontent.com/84431598/121600691-736dee00-ca0a-11eb-94d9-afef972dba0e.png)
 
 ![image](https://user-images.githubusercontent.com/84431598/121600765-97c9ca80-ca0a-11eb-985d-9b029c40b0f0.png)
 
-63.- Un motor de cd de 120V opera una bomba a través de una caja de engranes (figura 4-24).Si la potencia de entrada a la bomba es de 1100W, la caja de engranes tiene una eficiencia de 75% y la potencia de entrada al motor es de 1600W, determine los caballos de potencia de salida del motor.
+* 62 Un motor de cd de 120V opera una bomba a través de una caja de engranes (figura 4-24).Si la potencia de entrada a la bomba es de 1100W, la caja de engranes tiene una eficiencia de 75% y la potencia de entrada al motor es de 1600W, determine los caballos de potencia de salida del motor.
 
 ![image](https://user-images.githubusercontent.com/84431598/121603958-4a9c2780-ca0f-11eb-914c-e412db669616.png)
 
 
-
-
-
-67. Un resistor que depende de voltaje tiene la característica I-V de la figura 4-41
+* 64 Un resistor que depende de voltaje tiene la característica I-V de la figura 4-41
 
 ![image](https://user-images.githubusercontent.com/84431598/121607720-209a3380-ca16-11eb-8dc6-4fd689692f7e.png)
 
