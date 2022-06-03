@@ -53,7 +53,7 @@ D.	0,5 cm
 
 
 
-6. 	Un alambre de cobre con un diámetro de 0.80mm tiene una resistencia de 10.3Ω a 20℃. ¿Cuánto mide el alambre en metros y en pies?
+* 6. 	Un alambre de cobre con un diámetro de 0.80mm tiene una resistencia de 10.3Ω a 20℃. ¿Cuánto mide el alambre en metros y en pies?
 
 ![image](https://user-images.githubusercontent.com/84431598/121271499-6c6ba200-c889-11eb-8278-690b03de3a0e.png)
 
@@ -206,7 +206,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y deter
 
 𝑅100℃ = 25 𝑜ℎ𝑚𝑠
 
-36.-Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
+* 38.-Cierto material tiene una resistencia de 100 ohms a temperatura ambiente (20°C) y de 150 ohms a -25°C.
 
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
  
@@ -220,7 +220,7 @@ b. Determine al valor del coeficiente de temperatura, a, a 20°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121454825-1cfca300-c969-11eb-95af-216545a176bf.png)
 
-40.-Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+* 40.-Un diodo de silicio tiene una resistencia de 500 ohms a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
 
 R_2=R_1 (1+α(T_2-T_1 ))
 
@@ -229,7 +229,7 @@ R_2=500Ω(1+0.075(20^0 C-(30^0 C)))
 R_2=125Ω
 
 
-42.-Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
+* 42.-Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120 ohms a una temperatura de -20°C y de 190 omhs a 120°C.
 
 a. Calcule la resistencia a una temperatura de 0°C.
 
@@ -246,7 +246,7 @@ c. Determine la intercepción de temperatura del material
 ![image](https://user-images.githubusercontent.com/84458025/121461953-6c48d080-c975-11eb-8c3a-d9aff5637f41.png)
 
 
-44.-Deduzca la expresión de la ecuación 3-8.
+* 44.-Deduzca la expresión de la ecuación 3-8.
 
 ![image](https://user-images.githubusercontent.com/84458025/121464170-fe060d00-c978-11eb-81ee-42df1995808c.png)
  
@@ -263,11 +263,11 @@ c. Determine la intercepción de temperatura del material
 
 
 
-46. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
+* 46. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
 
 Medimos la resistencia del foco usando un óhmetro y si mide infinito (Error), quiere decir que el foco esta quemado, dañado.
 
-39. Explique como podría usar un óhmetro para determinar aproximadamente cuanto cable queda en un carrete de alambre de cobre AWG 24.
+* 48. Explique como podría usar un óhmetro para determinar aproximadamente cuanto cable queda en un carrete de alambre de cobre AWG 24.
 
 Se mide con el óhmetro la resistencia del carrete y se hace una regla de tres
 
@@ -277,7 +277,7 @@ Se mide con el óhmetro la resistencia del carrete y se hace una regla de tres
 
 
 
-41. Un termistor tiene las características que se muestran en la figura 3-23.
+* 50. Un termistor tiene las características que se muestran en la figura 3-23.
 
 a. Determine la resistencia del dispositivo a temperatura ambiente, 20°C.
 
