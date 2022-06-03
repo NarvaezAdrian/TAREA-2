@@ -28,7 +28,7 @@
 3. EXPLICACIÓN Y RESOLUCIÓN DE LOS EJERCICIOS 
 
 
-2.	Determine la resistencia, a  20℃,  de 100m de alambre de aluminio sólido que tiene los siguientes radios:
+* 2.	Determine la resistencia, a  20℃,  de 100m de alambre de aluminio sólido que tiene los siguientes radios:
    
  A. 0,5 mm
 
@@ -49,7 +49,7 @@ D.	0,5 cm
 ![image](https://user-images.githubusercontent.com/84431598/121259574-e8f48580-c875-11eb-9231-db51676cd44e.png)
 
 
-4. 	Una barra colectora de cobre sólido de 250 pies de longitud que, se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02Ω a 20℃, calcule la altura requerida de la barra (en pulgadas).
+* 4. 	Una barra colectora de cobre sólido de 250 pies de longitud que, se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02Ω a 20℃, calcule la altura requerida de la barra (en pulgadas).
 
 
 
@@ -60,14 +60,14 @@ D.	0,5 cm
 ![image](https://user-images.githubusercontent.com/84431598/121271575-9cb34080-c889-11eb-832a-556454752a13.png)
 
 
-8. 	Determine la resistividad (en ohm-metros) de un cilindro de gráfico con base de carbón que tiene una longitud de 6.00cm, un diámetro de 0.50mm y una resistencia medida de 3.0 Ω a 20℃ .¿Cómo se compara este valor con la resistividad que reporta para el carbón?
+* 8. 	Determine la resistividad (en ohm-metros) de un cilindro de gráfico con base de carbón que tiene una longitud de 6.00cm, un diámetro de 0.50mm y una resistencia medida de 3.0 Ω a 20℃ .¿Cómo se compara este valor con la resistividad que reporta para el carbón?
 
 ![image](https://user-images.githubusercontent.com/84431598/121275220-cb351980-c891-11eb-93ab-73cab83d562f.png)
 
 Comparándolo con el valor de la resistividad del carbón se puede decir que la resistividad obtenida es menor a la resistividad del carbón.
 
 
-10.	Una sección de 2500 m de alambre de aleación tiene una resistencias de 32 Ω. Si el alambre tiene un diámetro de 1.5mm, determine la resistividad del material en ohm-metros. ¿La aleación es mejor conductora que el cobre?
+* 10.	Una sección de 2500 m de alambre de aleación tiene una resistencias de 32 Ω. Si el alambre tiene un diámetro de 1.5mm, determine la resistividad del material en ohm-metros. ¿La aleación es mejor conductora que el cobre?
 
 
 ![image](https://user-images.githubusercontent.com/84431598/121406031-51e60700-c923-11eb-88d0-7dda8be493a6.png)
@@ -79,7 +79,7 @@ Esta aleación no está buena como el cobre.
 
 
 
-12.	Utilice la tabla 3-2 para terminar la resistencia de 300 pies de conductores de cobre sólido AWG 22 Y AWG 19. Compare los diámetro y resistencias delos alambres.
+* 12.	Utilice la tabla 3-2 para terminar la resistencia de 300 pies de conductores de cobre sólido AWG 22 Y AWG 19. Compare los diámetro y resistencias delos alambres.
 
 ![image](https://user-images.githubusercontent.com/84431598/121411532-59a8aa00-c929-11eb-8761-d190ba6b850e.png)
 
@@ -88,18 +88,18 @@ El diámetro de AWG 19 es 1.42 veces el diámetro de AWG 22.La resistencia del A
 
 El mayor diámetro es de AWG 2 mientras que el diámetro de AWG 8 es menor, la mitad del diámetro AWG 2, la resistencia de AWG 8 es mayor que la resistencia AWG 2
 
-14.	Determine la máxima corriente que puede conducir un alambre de AWG 19 y uno AWG 30.
+* 14.	Determine la máxima corriente que puede conducir un alambre de AWG 19 y uno AWG 30.
 
 
 El AWG 19 debe ser capaz de manejar 4A y el AWG  manejar 0.30 A
 
-16.	Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550 Ω a una temperatura de 20 ℃. ¿Cuánto mide el alambre en metros?
+* 16.	Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550 Ω a una temperatura de 20 ℃. ¿Cuánto mide el alambre en metros?
 
 ![image](https://user-images.githubusercontent.com/84431598/121442793-f5e6a700-c951-11eb-8885-ac66a45eaf7f.png)
 
 
 
-18.-Determine el área en milésimas circulares de los siguientes conductores (T=20°C):
+* 18.-Determine el área en milésimas circulares de los siguientes conductores (T=20°C):
 
 a. Alambre circular con un diámetro de 0.016 pulgadas
 
@@ -113,11 +113,11 @@ c. Barra colectora rectangular de 0.25x6.0 pulgadas
 
 ![image](https://user-images.githubusercontent.com/84458025/121450241-f470ab00-c960-11eb-9d5f-cdf8420fb76f.png)
 
-20.-Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
+* 20.-Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas cuadradas y milímetros cuadrados.
 
 
 
-22.-Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
+* 22.-Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
 
 ![image](https://user-images.githubusercontent.com/84458025/121450424-55987e80-c961-11eb-9ad1-135ea797a164.png)
 
@@ -129,13 +129,13 @@ b.-
 
 ![image](https://user-images.githubusercontent.com/84458025/121450926-39e1a800-c962-11eb-8cdf-a4fe868a92ea.png)
 
-24.-Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+* 24.-Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
 
 a. 250 MC       c. 250 MMC
 
 b. 1000 MC      d. 750 MMC
 
-26. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 ohms.
+* 26. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 ohms.
 
 a. Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares.
 
@@ -149,7 +149,7 @@ b. Determine el diámetro del alambre en milésimas y en pulgadas.
 𝑑 = 0.0644𝑝𝑙𝑔𝑠
 
 
-28.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
+* 28.-Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5 ohms (a una temperatura de 20°C).
 
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
@@ -160,7 +160,7 @@ b. Calcule la longitud del alambre en pies.
 
 ![image](https://user-images.githubusercontent.com/84458025/121452797-aca05280-c965-11eb-85de-d8f748582fea.png)
 
-30.-Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
+* 30.-Un alambre de hierro con un diámetro de 30 milésimas fue ocasionalmente usado para la transmisión telegráfica. Un técnico mide una sección de línea telegráfica que tiene una resistencia de 2500 ohms (a una temperatura de 20°C).
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
 R=(ρ*l)/A   
@@ -177,16 +177,16 @@ b. Calcule la longitud del alambre en pies y en metros. (Nota: 1 pie = 0.3048 m.
 
 
 
-32. Un conductor de aluminio tiene una resistencia de 50 ohms a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C.
+* 32. Un conductor de aluminio tiene una resistencia de 50 ohms a temperatura ambiente. Encuentre la resistencia para el mismo conductor a -30°C, 0°C y a 200°C.
 
 ![image](https://user-images.githubusercontent.com/84458025/121453419-c1c9b100-c966-11eb-980f-d29f91389d4e.png)
 
-26.-Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+* 34.-Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
 
 ![image](https://user-images.githubusercontent.com/84458025/121463284-66ec8580-c977-11eb-8c18-e231049421bb.png)
 
 
-34. Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
+* 36. Cierto material tiene una resistencia de 20 ohms a temperatura ambiente (20°C) y 25 ohms a una temperatura de 85°C.
 
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
 
