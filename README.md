@@ -736,15 +736,11 @@ W=3.3 x 24h
 
 5. CONCLUSIONES
 
-- Con el aprendizaje de estas unidades se puede hacer un correcto manejo de las resistecias.
-
 - Exisisten diverso tipos de clables los cuales tiene una expecificacion tecnica para un uso correcto  y manejo de corrientes. 
 
 - Las resistencias y los cables tienen un cierto de rango de teperatura a la cual pueden trabjar  de forma correcte. 
 
 - La temperatura influye en el funcionamiento correcto de las reistencias.
-
-- Para encontrar la resistencia del alambre de cobre y de aluminio se necesita conocer la resistividad de cada alambre, la cual se encuentra tabulada para luego aplicar la fórmula ![image](https://user-images.githubusercontent.com/84425276/121722174-b67f9e00-caaa-11eb-9a51-2b8df5b5dfea.png)
 
 - Los resistores variables son muy utilizados en la electrónica.
 
